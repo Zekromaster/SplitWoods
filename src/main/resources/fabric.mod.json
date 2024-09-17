@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "splitwoods",
+  "version": "${version}",
+
+  "name": "Split Woods",
+  "description": "Different wood types",
+  "authors": ["Zekromaster"],
+  "contact": {
+    "sources": "https://github.com/Zekromaster/SplitWood"
+  },
+
+  "license": "MIT",
+  "icon": "assets/splitwoods/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "stationapi:event_bus": [
+      "net.zekromaster.minecraft.splitwoods.WoodenPlanks"
+    ],
+    "stationapi:event_bus_client": [],
+    "stationapi:event_bus_server": []
+  },
+  "mixins": [
+    "splitwoods.mixins.json"
+  ],
+  "accessWidener": "splitwoods.accessWidener",
+  "depends": {
+    "minecraft": "1.0.0-beta.7.3",
+    "stationapi": [">=2.0-alpha.2", "<2.0-alpha.3"]
+  }
+}
