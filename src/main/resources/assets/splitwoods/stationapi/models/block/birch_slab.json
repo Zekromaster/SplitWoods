@@ -1,0 +1,6 @@
+{
+  "parent": "splitwoods:block/template/slab",
+  "textures": {
+    "all": "splitwoods:block/birch_planks"
+  }
+}

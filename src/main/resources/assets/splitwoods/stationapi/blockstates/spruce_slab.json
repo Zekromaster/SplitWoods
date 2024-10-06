@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "slab_type=bottom": {
+      "model": "splitwoods:block/spruce_slab"
+    },
+    "slab_type=top": {
+      "model": "splitwoods:block/spruce_slab",
+      "x": 180
+    },
+    "slab_type=double": {
+      "model": "splitwoods:block/spruce_planks"
+    }
+  }
+}

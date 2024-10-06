@@ -16,7 +16,7 @@
   "environment": "*",
   "entrypoints": {
     "stationapi:event_bus": [
-      "net.zekromaster.minecraft.splitwoods.WoodenPlanks"
+      "net.zekromaster.minecraft.splitwoods.SplitWoods"
     ],
     "stationapi:event_bus_client": [],
     "stationapi:event_bus_server": []

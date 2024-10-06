@@ -1,6 +1,15 @@
+tile.@.oak_planks.name = Oak Wood Planks
 tile.@.birch_planks.name = Birch Wood Planks
 tile.@.spruce_planks.name = Spruce Wood Planks
 
 tile.@.oak_log.name = Oak Wood
 tile.@.birch_log.name = Birch Wood
 tile.@.spruce_log.name = Spruce Wood
+
+tile.@.oak_slab.name = Oak Wood Slab
+tile.@.birch_slab.name = Birch Wood Slab
+tile.@.spruce_slab.name = Spruce Wood Slab
+
+tile.@.oak_stairs.name = Oak Wood Stairs
+tile.@.birch_stairs.name = Birch Wood Stairs
+tile.@.spruce_stairs.name = Spruce Wood Stairs

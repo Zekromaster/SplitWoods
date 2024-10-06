@@ -4,10 +4,13 @@
   "package": "net.zekromaster.minecraft.splitwoods.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "ItemStackMixin"
+    "RecipesMixin"
   ],
   "server": [],
-  "client": [],
+  "client": [
+    "LogMixin",
+    "SlabMixin"
+  ],
   "injectors": {
     "defaultRequire": 1
   }

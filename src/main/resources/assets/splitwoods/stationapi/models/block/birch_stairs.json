@@ -1,0 +1,6 @@
+{
+  "parent": "splitwoods:block/template/stairs",
+  "textures": {
+    "all": "splitwoods:block/birch_planks"
+  }
+}

@@ -1,6 +1,11 @@
 {
   "values": [
     "splitwoods:birch_planks",
-    "splitwoods:spruce_planks"
+    "splitwoods:spruce_planks",
+    "splitwoods:birch_slab",
+    "splitwoods:spruce_slab",
+    "splitwoods:birch_stairs",
+    "splitwoods:spruce_stairs"
+
   ]
 }
