@@ -24,7 +24,6 @@
   "mixins": [
     "splitwoods.mixins.json"
   ],
-  "accessWidener": "splitwoods.accessWidener",
   "depends": {
     "minecraft": "1.0.0-beta.7.3",
     "stationapi": [">=2.0-alpha.2", "<2.0-alpha.3"]
