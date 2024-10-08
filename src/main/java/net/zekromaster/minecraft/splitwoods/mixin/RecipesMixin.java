@@ -9,7 +9,7 @@ import org.spongepowered.asm.mixin.injection.At;
 
 // This has to run right before StAPI tagifies recipes
 @Mixin(value = CraftingRecipeManager.class, priority =  999)
-public class RecipesMixin {
+public abstract class RecipesMixin {
 
     @WrapWithCondition(
         method = "<init>",

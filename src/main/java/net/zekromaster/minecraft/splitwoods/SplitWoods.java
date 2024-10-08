@@ -29,7 +29,7 @@ public class SplitWoods {
 
     @EventListener
     private static void blockListener(BlockRegistryEvent event) {
-        Block.PLANKS.setTranslationKey("tile.splitwoods.oak_planks");
+        Block.PLANKS.setTranslationKey(namespace.id("oak_planks"));
         BIRCH_PLANKS = new TemplateBlock(namespace.id("birch_planks"), Material.WOOD)
             .setHardness(2.0F)
             .setResistance(5.0F)
