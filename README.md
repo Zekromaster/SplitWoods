@@ -1,6 +1,6 @@
-# SplitWoods
+# Split Woods
 
-Name subject to change.
+Splits the different wood types  in b1.7.3 - adding Birch and Spruce planks, stairs and slabs.
 
 ## Credits
 * Uses some code from [DanyGames2014's Tropicraft](https://github.com/DanyGames2014/Tropicraft) for the purpose of
